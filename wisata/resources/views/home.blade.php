@@ -169,7 +169,7 @@
 
     <!-- Footer -->
     <footer style="background-color: #9cd0fc" class="text-center pb-4">
-      <p>Created with <i class="bi bi-heart-fill text-danger"></i> by <span class="text-black fw-bold">Jawir</span></p>
+      <p>Created with <i class="bi bi-heart-fill text-danger"></i> by <span class="text-black fw-bold">Kelompok 4</span></p>
     </footer>
     <!-- Akhir Footer -->
 
